@@ -63,104 +63,104 @@ The table below lists the prominent SaaS platforms for multi-channel social cont
 
 ## 💻 Open-Source Repositories (Ranked by Stars)
 
-Self-hosting open-source schedulers and localization engines provides total data sovereignty, custom API routing, and freedom from per-seat SaaS costs. Below are top repositories **sorted descending by GitHub star count**, each equipped with a live star badge linking to its stargazers page:
+Self-hosting open-source schedulers and localization engines provides total data sovereignty, custom API routing, and freedom from per-seat SaaS costs. Below are top repositories **sorted descending by GitHub Stars_Count**, each equipped with a live Stars_Badge linking to its stargazers page:
 
-1. ### 📨 [Postiz](https://github.com/gitroomhq/postiz-app) [![GitHub stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=social&color=white)](https://github.com/gitroomhq/postiz-app/stargazers)
+1. ### 📨 [Postiz](https://github.com/gitroomhq/postiz-app) [![GitHub_Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=social&color=white)](https://github.com/gitroomhq/postiz-app/stargazers)
    - **Stack & License:** TypeScript, Next.js, Node.js, Prisma, Redis, Docker • **AGPL-3.0**
    - **Stars:** **37,100+**
    - **Highlights:** The ultimate open-source, agentic social media scheduling tool. Supports official APIs across X/Twitter, LinkedIn, YouTube, TikTok, Reddit, Pinterest, and Facebook. Self-hostable via Docker with community plugins and AI post generation.
 
-2. ### 🎬 [VideoLingo](https://github.com/Huanshere/VideoLingo) [![GitHub stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social&color=white)](https://github.com/Huanshere/VideoLingo/stargazers)
+2. ### 🎬 [VideoLingo](https://github.com/Huanshere/VideoLingo) [![GitHub_Stars](https://img.shields.io/github/stars/Huanshere/VideoLingo?style=social&color=white)](https://github.com/Huanshere/VideoLingo/stargazers)
    - **Stack & License:** Python, Streamlit, Whisper-timestamped, NLP/LLM, FFmpeg • **Apache-2.0**
    - **Stars:** **18,700+**
    - **Highlights:** Netflix-quality video translation, dubbing, and localization pipeline for international social media creators. Features Whisper transcription, LLM-guided context-aware translation, precise subtitle alignment, and multi-language voice cloning for YouTube, TikTok, and Reels.
 
-3. ### 🌐 [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) [![GitHub stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social&color=white)](https://github.com/LibreTranslate/LibreTranslate/stargazers)
+3. ### 🌐 [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) [![GitHub_Stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social&color=white)](https://github.com/LibreTranslate/LibreTranslate/stargazers)
    - **Stack & License:** Python, Argos Translate, Flask, Docker • **AGPL-3.0**
    - **Stars:** **17,000+**
    - **Highlights:** Free and open-source self-hosted machine translation API. 100% offline capable with no third-party API dependencies. Perfect for automated real-time social content translation and on-premise localized text batching.
 
-4. ### 📚 [Argos Translate](https://github.com/argosopentech/argos-translate) [![GitHub stars](https://img.shields.io/github/stars/argosopentech/argos-translate?style=social&color=white)](https://github.com/argosopentech/argos-translate/stargazers)
+4. ### 📚 [Argos Translate](https://github.com/argosopentech/argos-translate) [![GitHub_Stars](https://img.shields.io/github/stars/argosopentech/argos-translate?style=social&color=white)](https://github.com/argosopentech/argos-translate/stargazers)
    - **Stack & License:** Python, OpenNMT, CTranslate2 • **MIT / Open**
    - **Stars:** **6,500+**
    - **Highlights:** Open-source offline translation library and engine powering LibreTranslate. Provides downloadable language packages and a clean Python API for building custom localization microservices and automated social translation bots.
 
-5. ### 📝 [Weblate](https://github.com/WeblateOrg/weblate) [![GitHub stars](https://img.shields.io/github/stars/WeblateOrg/weblate?style=social&color=white)](https://github.com/WeblateOrg/weblate/stargazers)
+5. ### 📝 [Weblate](https://github.com/WeblateOrg/weblate) [![GitHub_Stars](https://img.shields.io/github/stars/WeblateOrg/weblate?style=social&color=white)](https://github.com/WeblateOrg/weblate/stargazers)
    - **Stack & License:** Python, Django, Celery, PostgreSQL, Docker, K8s • **GPL-3.0**
    - **Stars:** **6,100+**
    - **Highlights:** Web-based continuous localization platform featuring deep version control integration (Git, Mercurial, Subversion). Includes automated translation propagation, glossary management, quality checks, and multi-branch synchronization.
 
-6. ### 🔤 [Tolgee](https://github.com/tolgee/tolgee-platform) [![GitHub stars](https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social&color=white)](https://github.com/tolgee/tolgee-platform/stargazers)
+6. ### 🔤 [Tolgee](https://github.com/tolgee/tolgee-platform) [![GitHub_Stars](https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social&color=white)](https://github.com/tolgee/tolgee-platform/stargazers)
    - **Stack & License:** Kotlin, Spring Boot, TypeScript, React, Docker • **Apache-2.0**
    - **Stars:** **4,100+**
    - **Highlights:** Modern web-based localization platform with in-context translation, automatic screenshot generation, and integrations with Deepl, AWS Translate, and Google Cloud Translation. Delivers an intuitive CAT tool for distributed content teams.
 
-7. ### 📅 [Mixpost](https://github.com/inovector/mixpost) [![GitHub stars](https://img.shields.io/github/stars/inovector/mixpost?style=social&color=white)](https://github.com/inovector/mixpost/stargazers)
+7. ### 📅 [Mixpost](https://github.com/inovector/mixpost) [![GitHub_Stars](https://img.shields.io/github/stars/inovector/mixpost?style=social&color=white)](https://github.com/inovector/mixpost/stargazers)
    - **Stack & License:** PHP, Laravel, Vue.js, Tailwind CSS, MySQL • **MIT / AGPL-3.0**
    - **Stars:** **3,800+**
    - **Highlights:** Battle-tested self-hosted social media management software for PHP and Laravel environments. Supports multiple brands, unlimited scheduling, engagement metrics, and social publishing across X, Facebook, Instagram, LinkedIn, Mastodon, and YouTube.
 
-8. ### 🗃️ [Ever Traduora](https://github.com/ever-co/ever-traduora) [![GitHub stars](https://img.shields.io/github/stars/ever-co/ever-traduora?style=social&color=white)](https://github.com/ever-co/ever-traduora/stargazers)
+8. ### 🗃️ [Ever Traduora](https://github.com/ever-co/ever-traduora) [![GitHub_Stars](https://img.shields.io/github/stars/ever-co/ever-traduora?style=social&color=white)](https://github.com/ever-co/ever-traduora/stargazers)
    - **Stack & License:** TypeScript, Node.js, Angular, MySQL, Docker • **AGPL-3.0**
    - **Stars:** **2,100+**
    - **Highlights:** Open-source translation management platform designed for cross-functional teams. Provides REST API access, role-based access control (RBAC), translation memory, and multi-project phrase localization.
 
-9. ### 🌍 [Inlang](https://github.com/opral/inlang) [![GitHub stars](https://img.shields.io/github/stars/opral/inlang?style=social&color=white)](https://github.com/opral/inlang/stargazers)
+9. ### 🌍 [Inlang](https://github.com/opral/inlang) [![GitHub_Stars](https://img.shields.io/github/stars/opral/inlang?style=social&color=white)](https://github.com/opral/inlang/stargazers)
    - **Stack & License:** TypeScript, Web Standards, Svelte • **Apache-2.0**
    - **Stars:** **2,000+**
    - **Highlights:** Open-format TMS ecosystem centered around the `.inlang` project file. Offers developer-grade SDKs, CLI utilities, and plugins for i18next, JSON, and XLIFF to integrate localized marketing copy directly into codebases and CI/CD pipelines.
 
-10. ### 📊 [Socioboard 5.0](https://github.com/Socioboard-developers/Socioboard-5.0) [![GitHub stars](https://img.shields.io/github/stars/Socioboard-developers/Socioboard-5.0?style=social&color=white)](https://github.com/Socioboard-developers/Socioboard-5.0/stargazers)
+10. ### 📊 [Socioboard 5.0](https://github.com/Socioboard-developers/Socioboard-5.0) [![GitHub_Stars](https://img.shields.io/github/stars/Socioboard-developers/Socioboard-5.0?style=social&color=white)](https://github.com/Socioboard-developers/Socioboard-5.0/stargazers)
     - **Stack & License:** Node.js, React, Express, MongoDB, Android/iOS • **GPL-3.0**
     - **Stars:** **1,500+**
     - **Highlights:** Full-stack social media management, lead generation, and social CRM platform with native mobile applications. Features automated message feeds, content discovery, sentiment tracking, and multi-network publishing.
 
-11. ### ⚡ [Accent](https://github.com/mirego/accent) [![GitHub stars](https://img.shields.io/github/stars/mirego/accent?style=social&color=white)](https://github.com/mirego/accent/stargazers)
+11. ### ⚡ [Accent](https://github.com/mirego/accent) [![GitHub_Stars](https://img.shields.io/github/stars/mirego/accent?style=social&color=white)](https://github.com/mirego/accent/stargazers)
     - **Stack & License:** Elixir, Phoenix, GraphQL, PostgreSQL, Docker • **BSD-3-Clause**
     - **Stars:** **1,400+**
     - **Highlights:** First-class developer-oriented translation tool with asynchronous review flows, Slack notifications, string history tracking, and a powerful GraphQL API for international content automation.
 
-12. ### 🚀 [TryPost](https://github.com/trypostit/trypost) [![GitHub stars](https://img.shields.io/github/stars/trypostit/trypost?style=social&color=white)](https://github.com/trypostit/trypost/stargazers)
+12. ### 🚀 [TryPost](https://github.com/trypostit/trypost) [![GitHub_Stars](https://img.shields.io/github/stars/trypostit/trypost?style=social&color=white)](https://github.com/trypostit/trypost/stargazers)
     - **Stack & License:** TypeScript, Next.js, PostgreSQL • **MIT**
     - **Stars:** **700+**
     - **Highlights:** Lightweight open-source social media scheduling application designed for creators and startups seeking a clean alternative to Buffer and Hootsuite.
 
-13. ### 📤 [Easy Uploader](https://github.com/wanghaisheng/easy-uploader) [![GitHub stars](https://img.shields.io/github/stars/wanghaisheng/easy-uploader?style=social&color=white)](https://github.com/wanghaisheng/easy-uploader/stargazers)
+13. ### 📤 [Easy Uploader](https://github.com/wanghaisheng/easy-uploader) [![GitHub_Stars](https://img.shields.io/github/stars/wanghaisheng/easy-uploader?style=social&color=white)](https://github.com/wanghaisheng/easy-uploader/stargazers)
     - **Stack & License:** Python, Playwright, Selenium, Celery • **MIT**
     - **Stars:** **380+**
     - **Highlights:** Headless multi-channel video uploader and publisher. Automates batch video scheduling across TikTok, YouTube Shorts, Instagram Reels, Xiaohongshu, Bilibili, and Douyin for cross-border content creators.
 
-14. ### ☁️ [Cogsend](https://github.com/cogsend/cogsend) [![GitHub stars](https://img.shields.io/github/stars/cogsend/cogsend?style=social&color=white)](https://github.com/cogsend/cogsend/stargazers)
+14. ### ☁️ [Cogsend](https://github.com/cogsend/cogsend) [![GitHub_Stars](https://img.shields.io/github/stars/cogsend/cogsend?style=social&color=white)](https://github.com/cogsend/cogsend/stargazers)
     - **Stack & License:** TypeScript, Cloudflare Workers, Hono, D1 • **MIT**
     - **Stars:** **220+**
     - **Highlights:** Serverless self-hosted social media scheduler deploying directly to your Cloudflare account. Write once and broadcast to connected social networks with zero server hosting costs.
 
-15. ### 🦞 [SocialClaw](https://github.com/ndesv21/socialclaw) [![GitHub stars](https://img.shields.io/github/stars/ndesv21/socialclaw?style=social&color=white)](https://github.com/ndesv21/socialclaw/stargazers)
+15. ### 🦞 [SocialClaw](https://github.com/ndesv21/socialclaw) [![GitHub_Stars](https://img.shields.io/github/stars/ndesv21/socialclaw?style=social&color=white)](https://github.com/ndesv21/socialclaw/stargazers)
     - **Stack & License:** TypeScript, Node.js, OpenClaw • **MIT**
     - **Stars:** **90+**
     - **Highlights:** Social media scheduling CLI and agentic skill tailored for autonomous AI agents. Enables programmatic posting and multilingual distribution to X, LinkedIn, Instagram, Facebook, TikTok, Discord, Telegram, and Pinterest.
 
-16. ### 🛡️ [Postmill](https://github.com/postmill-ai/postmill-app) [![GitHub stars](https://img.shields.io/github/stars/postmill-ai/postmill-app?style=social&color=white)](https://github.com/postmill-ai/postmill-app/stargazers)
+16. ### 🛡️ [Postmill](https://github.com/postmill-ai/postmill-app) [![GitHub_Stars](https://img.shields.io/github/stars/postmill-ai/postmill-app?style=social&color=white)](https://github.com/postmill-ai/postmill-app/stargazers)
     - **Stack & License:** TypeScript, Next.js, NestJS, PostgreSQL, Inngest, Docker • **AGPL-3.0**
     - **Stars:** **20+**
     - **Highlights:** AI-native social management platform for 45+ networks with BYOK LLM support across 30+ providers. Features 46 built-in creative studios, a 16-language localized UI, cross-network unified comments, and 90-permission RBAC.
 
-17. ### 🤖 [Posthive](https://github.com/AstaBlackClove/posthive) [![GitHub stars](https://img.shields.io/github/stars/AstaBlackClove/posthive?style=social&color=white)](https://github.com/AstaBlackClove/posthive/stargazers)
+17. ### 🤖 [Posthive](https://github.com/AstaBlackClove/posthive) [![GitHub_Stars](https://img.shields.io/github/stars/AstaBlackClove/posthive?style=social&color=white)](https://github.com/AstaBlackClove/posthive/stargazers)
     - **Stack & License:** TypeScript, FastMCP, Python • **MIT**
     - **Stars:** **18**
     - **Highlights:** Agentic social media scheduler featuring a built-in Model Context Protocol (MCP) server, allowing local coding agents and LLMs to draft, localize, and publish social posts across multiple networks automatically.
 
-18. ### 📡 [PostSider](https://github.com/lumizone/postsider) [![GitHub stars](https://img.shields.io/github/stars/lumizone/postsider?style=social&color=white)](https://github.com/lumizone/postsider/stargazers)
+18. ### 📡 [PostSider](https://github.com/lumizone/postsider) [![GitHub_Stars](https://img.shields.io/github/stars/lumizone/postsider?style=social&color=white)](https://github.com/lumizone/postsider/stargazers)
     - **Stack & License:** TypeScript, NestJS, Next.js, Prisma, Redis, Temporal • **AGPL-3.0**
     - **Stars:** **11**
     - **Highlights:** Open-source social scheduling platform for 30+ networks equipped with a public REST API, Node.js SDK, and Temporal-driven durable scheduling workflows to prevent dropped posts during traffic spikes.
 
-19. ### 🧠 [Free AI Social Media Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) [![GitHub stars](https://img.shields.io/github/stars/Anil-matcha/Free-AI-Social-Media-Scheduler?style=social&color=white)](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler/stargazers)
+19. ### 🧠 [Free AI Social Media Scheduler](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler) [![GitHub_Stars](https://img.shields.io/github/stars/Anil-matcha/Free-AI-Social-Media-Scheduler?style=social&color=white)](https://github.com/Anil-matcha/Free-AI-Social-Media-Scheduler/stargazers)
     - **Stack & License:** TypeScript, Next.js 16, PostgreSQL, Prisma, Stripe • **MIT**
     - **Stars:** **5**
     - **Highlights:** Free self-hostable AI scheduler supporting YouTube, TikTok, Instagram, Facebook, X, LinkedIn, and Threads. Incorporates conversational memory to draft platform-tailored localized copy with one click.
 
-20. ### 🎨 [Brightbean Studio](https://github.com/rmdes/brightbean-studio) [![GitHub stars](https://img.shields.io/github/stars/rmdes/brightbean-studio?style=social&color=white)](https://github.com/rmdes/brightbean-studio/stargazers)
+20. ### 🎨 [Brightbean Studio](https://github.com/rmdes/brightbean-studio) [![GitHub_Stars](https://img.shields.io/github/stars/rmdes/brightbean-studio?style=social&color=white)](https://github.com/rmdes/brightbean-studio/stargazers)
     - **Stack & License:** PHP, Docker, OAuth • **AGPL-3.0**
     - **Stars:** **0**
     - **Highlights:** Lightweight self-hostable dashboard for scheduling and publishing across 10+ networks with comprehensive OAuth setup guides for personal Instagram accounts and Facebook Pages.
@@ -207,7 +207,7 @@ Contributions from developers, localization engineers, and marketing professiona
 
 1. 🍴 **Fork the repository** to your GitHub account.
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-tool`.
-3. 📝 **Add or update entries**: Ensure each tool includes a factual description, pricing or star badge, and verified links.
+3. 📝 **Add or update entries**: Ensure each tool includes a factual description, pricing or Stars_Badge, and verified links.
 4. 🔍 **Verify formatting**: Check table alignment and Markdown links.
 5. 🚀 **Submit a Pull Request**: Detail your changes and why the tool fits multi-channel social localization.
 
