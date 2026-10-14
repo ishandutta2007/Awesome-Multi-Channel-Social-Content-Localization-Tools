@@ -1,6 +1,6 @@
 # Awesome-Multi-Channel-Social-Content-Localization-Tools
 
-# Top Multi-Channel Social Content Localization Tools Ecosystem
+## Top Multi-Channel Social Content Localization Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Cross-Platform Publishing, Cultural Adaptation & Multilingual Brand Consistency*  
